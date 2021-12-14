@@ -4,3 +4,6 @@
 [submodule "tsfpga"]
 	path = tsfpga
 	url = https://gitlab.com/tsfpga/tsfpga.git
+[submodule "hdl_modules"]
+	path = hdl_modules
+	url = https://gitlab.com/tsfpga/hdl_modules.git
